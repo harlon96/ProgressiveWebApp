@@ -2,6 +2,6 @@
 
 function speak() {
     var voice = new SpeechSynthesisUtterance();
-    voice.text = "contact harlon at 407-705-9585";
+    voice.text = "This app is still under construction.";
     speechSynthesis.speak(voice);
 }
